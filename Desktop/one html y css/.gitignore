@@ -1,0 +1,38 @@
+# Ignorar directorios y archivos no deseados
+Configuración\ local/
+Cookies/
+Datos\ de\ programa/
+Documents/Mi\ música/
+Documents/Mis\ imágenes/
+Documents/Mis\ vídeos/
+Entorno\ de\ red/
+Impresoras/
+Menú\ Inicio/
+Mis\ documentos/
+Plantillas/
+Reciente/
+SendTo/
+.VirtualBox/
+.bash_history
+.gitconfig
+.lesshst
+.quokka/
+.viminfo
+.vscode/
+AppData/
+Contacts/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+NTUSER.DAT*
+OneDrive/
+Saved\ Games/
+Searches/
+Videos/
+VirtualBox\ VMs/
+dir
+git
+ntuser.dat.*
+pseint/

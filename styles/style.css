@@ -154,4 +154,7 @@ body{
     .presentacion__contenido{
         width: auto;
     }
+    .header{
+        width: auto;
+    }
 }
